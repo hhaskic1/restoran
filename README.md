@@ -1,1 +1,3 @@
-# restoran
+# Restoran projekt
+
+Ovdje ide opis projekta...
